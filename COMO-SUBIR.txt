@@ -1,0 +1,7 @@
+NU CORPO — DEMO VISUAL
+
+No GitHub, substitua os arquivos antigos por TODO o conteúdo desta pasta.
+O arquivo index.html deve ficar na RAIZ do repositório, ao lado de biquinis.html, produto.html, atacado.html e carrinho.html.
+A pasta assets também deve ficar na raiz.
+
+Depois de enviar, aguarde o GitHub Pages atualizar e recarregue a página com Ctrl+F5.
